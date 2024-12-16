@@ -5,7 +5,7 @@
 --- Objetivo principal: 
 
 
---- Obejitvos específicos:
+> Obejitvos específicos:
 
 - Realizar el levantamiento de los requerimientos y alcances del proyecto, entre los que se encuentra: Funcionabilidad, Portabilidad, Escalabilidad, Mantenibilidad y Viabilidad.
 
