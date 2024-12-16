@@ -1,8 +1,8 @@
 # DuqueCeballos
 
--- Objetivos:
+>> Objetivos:
 
---- Objetivo principal: 
+> Objetivo principal: 
 
 
 > Obejitvos específicos:
