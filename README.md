@@ -5,7 +5,7 @@
 > Objetivo principal: 
 
 
-> Obejitvos específicos:
+> Objetivos específicos:
 
 - Realizar el levantamiento de los requerimientos y alcances del proyecto, entre los que se encuentra: Funcionabilidad, Portabilidad, Escalabilidad, Mantenibilidad y Viabilidad.
 
@@ -15,7 +15,7 @@
 
 - Implementar el desarrollo frontend.
 
-- (Opcional) Implementar el desarrollo backend.
+- Implementar el desarrollo backend.
 
 - Montar la página en el servidor web.
 
